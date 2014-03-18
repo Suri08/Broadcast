@@ -1,0 +1,2 @@
+pip install virtualenv
+virtualenv --no-site-packages ribbit_env
